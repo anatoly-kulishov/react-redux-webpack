@@ -1,0 +1,1 @@
+export const SITE_TITLE = "REACT_REDUX_WEBPACK"
